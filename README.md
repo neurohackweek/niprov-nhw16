@@ -3,7 +3,7 @@
 
 > Jasper J.F. van den Bosch
 
-*Slides at neurohackweek.github.com*
+*Slides at neurohackweek.github.com/niprov-nhw16*
 
 #### Setup python environment
 ```shell
